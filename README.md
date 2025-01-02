@@ -79,7 +79,8 @@ endmodule
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![image](https://github.com/user-attachments/assets/02360740-8a33-46ba-a715-c7dfc2562775)
+![image](https://github.com/user-attachments/assets/553cf0c9-d8ea-4953-8f3f-40192de42ac7)
+
 
 
 **RESULTS**
